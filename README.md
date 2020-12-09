@@ -9,7 +9,7 @@ This repo is simply the archived state of `asv` at the time (3rd May 2020), and
 corresponding results.
 
 The results are rendered on
-[empymod.github.io/empymod-asv-v1](https://emsig.github.io/empymod-asv-v1/).
+[emsig.github.io/empymod-asv-v1](https://emsig.github.io/empymod-asv-v1/).
 
 For the current benchmarks see
-[empymod.github.io/empymod-asv](https://emsig.github.io/empymod-asv).
+[emsig.github.io/empymod-asv](https://emsig.github.io/empymod-asv).
